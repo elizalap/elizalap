@@ -1,6 +1,6 @@
 ### Olá, eu sou a Eliza Lima !
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/elizalap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizalap&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizalap&layout=compact&langs_count=7&theme=omni"/>
