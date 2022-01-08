@@ -1,7 +1,6 @@
 ### Olá, eu sou a Eliza Lima !
-
+<a href="https://github.com/elizalap">
 <div align="left">
-  <a href="https://github.com/elizalap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizalap&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizalap&layout=compact&langs_count=7&theme=omni"/>
 </div>
@@ -12,7 +11,8 @@
   <img align="center" alt="Eliza-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Eliza-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
-  
+</a>
+
   ##
   
   <div>
